@@ -1,7 +1,7 @@
 
 body {
     background-color: aquamarine;
-    width; 1000vw;
+    width: 1000vw;
     display:flex;
     align-items: center;
     justify-content: baseline;
