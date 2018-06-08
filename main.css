@@ -1,3 +1,4 @@
+
 body {
     background-color: aquamarine;
     width; 1000vw;
@@ -5,3 +6,12 @@ body {
     align-items: center;
     justify-content: baseline;
 }
+
+ul {
+    list-style-type: none;
+    font-family: Arial;
+    color: olivedrab;
+    font-size: 40px;
+    font-weight: 800
+}
+
